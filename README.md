@@ -1,6 +1,6 @@
 # The-beginner-python-Handbook
 
-This is a beginer python handbook, Authored by Pyladies Kampala Community.
+This is a beginner python handbook, Authored by Pyladies Kampala Community.
 
 We are still in the beginner phase.
 
